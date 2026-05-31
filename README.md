@@ -13,8 +13,6 @@ I don't think only in code. I think in problems, users, and business models. Eve
 **[Scraper](https://github.com/Kauan-Santos-Souza-Dev/Scraper)**
 Automated job aggregator for remote tech positions. Filters by location and stack via Telegram digest. Built with Node.js, Fetch API, and dotenv.
 
-**Sentinela** *(in roadmap)*
-Automated monitor for Brazilian public service job announcements with Telegram alerts. Real validated user before a single line of code was written.
 
 ---
 
