@@ -1,44 +1,59 @@
-# Kauan Santos Souza
+<h1 align="center">Kauan Santos</h1>
+<h3 align="center">Systems Developer · Product Builder · Brazil</h3>
 
-**Systems Developer · Product Builder · Brazil**
+<br/>
 
-I'm an 18-year-old Systems Analysis and Development student who builds automation products from scratch — from the idea to working code with real users.
+## About
 
-I don't think only in code. I think in problems, users, and business models. Every project I build starts with a validated problem and a clear reason to exist.
-
----
-
-## Currently Building
-
-**[Scraper](https://github.com/Kauan-Santos-Souza-Dev/Scraper)**
-Automated job aggregator for remote tech positions. Filters by location and stack via Telegram digest. Built with Node.js, Fetch API, and dotenv.
-
+Systems Analysis and Development student focused on building automation products that solve real problems. I approach software from a business perspective — every project starts with a validated user and a clear reason to exist, not just an idea to code.
 
 ---
 
-## Stack
+## Technical Skills
 
-```
-Language:   JavaScript / Node.js
-HTTP:       Fetch API
-Config:     dotenv
-Bot:        Telegram Bot API
-Tools:      Git, Linux (WSL2), VS Code
-Learning:   Async patterns, REST APIs, system design
-```
+**Languages & Runtime**
+- JavaScript / Node.js
+
+**Tools & Technologies**
+- Fetch API · REST APIs · dotenv · Telegram Bot API
+- Git · GitHub · Linux (WSL2) · VS Code
+
+**Concepts**
+- Asynchronous programming · JSON · Module systems (CommonJS)
+- Adapter Pattern · Data normalization · API integration
 
 ---
 
-## Approach
+## Soft Skills
 
-- Build for real users, not for portfolios
-- Validate before building
-- Ship working software, then improve
-- Business logic first, syntax second
+
+- **Business awareness** — I think in users, monetization, and product phases, not only in features
+- **Reliability** — I document decisions, keep clean repositories, and ship working software
+- **Autonomy** — I learn independently and manage my own roadmap without supervision
+
+---
+
+## Projects
+
+### [Scraper](https://github.com/Kauan-Santos-Souza-Dev/Scraper)
+Automated remote job aggregator. Fetches, normalizes, and filters positions by location and tech stack. Delivers a daily Telegram digest instead of noise.
+`Node.js` `Fetch API` `dotenv` `Telegram Bot API`
+
+
+---
+
+## Education
+
+**Systems Analysis and Development** — Evening program, Brazil *(in progress)*
+
+**JavaScript & Node.js** — FreeCodeCamp *(in progress)*
+
+**CS50: Introduction to Computer Science** — Harvard University *(in progress)*
 
 ---
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauan%20Santos-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kauan-santos-1456563ab/)
-[![Email](https://img.shields.io/badge/Email-kauansantos.admcomercial%40gmail.com-red?style=flat&logo=gmail)](mailto:kauansantos.admcomercial@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauan%20Santos-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-santos-1456563ab/)
+[![Email](https://img.shields.io/badge/Email-kauansantos.admcomercial%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kauansantos.admcomercial@gmail.com)
+
