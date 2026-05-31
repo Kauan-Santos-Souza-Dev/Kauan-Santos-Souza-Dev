@@ -5,7 +5,7 @@
 
 ## About
 
-Systems Analysis and Development student focused on building automation products that solve real problems. I approach software from a business perspective — every project starts with a validated user and a clear reason to exist, not just an idea to code.
+Systems Analysis and Development focused on building automation products that solve real problems. I approach software from a business perspective — every project starts with a validated user and a clear reason to exist, not just an idea to code.
 
 ---
 
