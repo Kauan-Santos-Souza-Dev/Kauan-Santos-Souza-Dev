@@ -36,7 +36,7 @@ Systems Analysis and Development focused on building automation products that so
 ## Projects
 
 ### [Scraper](https://github.com/Kauan-Santos-Souza-Dev/Scraper)
-Automated remote job aggregator. Fetches, normalizes, and filters positions by location and tech stack. Delivers a daily Telegram digest instead of noise.
+Automated remote job aggregator for Brazil. Fetches, normalizes, and filters positions by location and tech stack. Delivers a daily Telegram digest instead of noise.
 `Node.js` `Fetch API` `dotenv` `Telegram Bot API`
 
 
