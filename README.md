@@ -53,6 +53,5 @@ Systems Analysis and Development focused on building automation products that so
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauan%20Santos-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-santos-1456563ab/)
 [![Email](https://img.shields.io/badge/Email-kauansantos.admcomercial%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kauansantos.admcomercial@gmail.com)
-
 [![Dev.to](https://dev.to/kauansantossouzadev)
 
