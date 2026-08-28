@@ -42,8 +42,16 @@ Systems Analysis and Development focused on building automation products that so
 
 ## Projects
 
+### 📦 Scraper
+Automated remote job aggregator for Brazilian developers, featuring smart filtering and daily notifications via Telegram.
+
+[View project →](https://github.com/Kauan-Santos-Souza-Dev/Scraper)
+
+### 💼 Python Job Tracker
+Command-line application developed in Python for managing and tracking job applications.
 
 
+[View project →](https://github.com/Kauan-Santos-Souza-Dev/python-job-tracker)
 
 ---
 
