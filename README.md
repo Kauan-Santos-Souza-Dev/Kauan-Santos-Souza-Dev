@@ -48,8 +48,8 @@ Systems Analysis and Development focused on building automation products that so
 
 ## Education
 
-**Systems Analysis and Development** — ·   start 03/2026 – 2º  semester
+**Systems Analysis and Development** — start 03/2026 – 2º semester
 
-**JavaScript & Node.js** — FreeCodeCamp *Finished*
+**FreeCodeCamp - JavaScript & Node.js** - *Finished*
 
 ---
