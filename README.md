@@ -48,10 +48,8 @@ Systems Analysis and Development focused on building automation products that so
 
 ## Education
 
-**Systems Analysis and Development** — Evening program, Brazil *(in progress)*
+**Systems Analysis and Development** — ·   start 03/2026 – 2º  semester
 
-**JavaScript & Node.js** — FreeCodeCamp *(in progress)*
-
-**CS50: Introduction to Computer Science** — Harvard University *(in progress)*
+**JavaScript & Node.js** — FreeCodeCamp *Finished *
 
 ---
