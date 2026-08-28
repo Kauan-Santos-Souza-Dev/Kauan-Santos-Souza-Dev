@@ -19,7 +19,7 @@ Systems Analysis and Development focused on building automation products that so
 ## Technical Skills
 
 **Languages & Runtime**
-- JavaScript / Node.js
+- JavaScript / Node.js / Python
 
 **Tools & Technologies**
 - Fetch API · REST APIs · dotenv · Telegram Bot API
@@ -41,6 +41,7 @@ Systems Analysis and Development focused on building automation products that so
 ---
 
 ## Projects
+
 
 
 
