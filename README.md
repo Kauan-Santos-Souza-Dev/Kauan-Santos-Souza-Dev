@@ -1,64 +1,91 @@
-<h1 align="center">Kauan Santos</h1>
-<h3 align="center">Systems Developer · Product Builder · Brazil</h3>
+<div align="center">
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kauan%20Santos&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Product%20Builder%20%7C%20Python%20%26%20MySQL&descAlignY=60&descSize=20" alt="Cabeçalho" />
 
-## Contact
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=5BC0DE&center=true&vCenter=true&width=640&lines=Construindo+produtos+que+resolvem+problemas+reais;Python+%2B+MySQL+%2B+JavaScript;Todo+projeto+come%C3%A7a+com+um+usu%C3%A1rio+validado)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauan%20Santos-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-santos-1456563ab/)
-[![Email](https://img.shields.io/badge/Email-kauansantos.admcomercial%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kauansantos.admcomercial@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauan_Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-santos-1456563ab/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauansantos.admcomercial@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Kauan--Santos--Souza--Dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kauan-Santos-Souza-Dev)
 
-
-
-## About
-
-Systems Analysis and Development focused on building automation products that solve real problems. I approach software from a business perspective — every project starts with a validated user and a clear reason to exist, not just an idea to code.
+</div>
 
 ---
 
-## Technical Skills
+## 👋 Sobre mim
 
-**Languages & Runtime**
-- JavaScript / Node.js / Python
+Estudante de **Análise e Desenvolvimento de Sistemas**, focado em construir **produtos de automação que resolvem problemas reais**.
 
-**Tools & Technologies**
-- Fetch API · REST APIs · dotenv · Telegram Bot API
-- Git · GitHub · Linux (WSL2) · VS Code
+Eu abordo software pela perspectiva de negócio: todo projeto começa com **um usuário validado e uma razão clara de existir**, não apenas uma ideia para programar.
 
-**Concepts**
-- Asynchronous programming · JSON · Module systems (CommonJS)
-- Adapter Pattern · Data normalization · API integration
+Me vejo  como **Product Builder**: alguém que usa a tecnologia como ferramenta para transformar problemas em produtos.
 
 ---
 
-## Soft Skills
+## 🛠️ Skills
 
+<div align="center">
 
-- **Business awareness** — I think in users, monetization, and product phases, not only in features
-- **Reliability** — I document decisions, keep clean repositories, and ship working software
-- **Autonomy** — I learn independently and manage my own roadmap without supervision
+<img src="https://skillicons.dev/icons?i=python,mysql,js,html,css,git,github&theme=dark" alt="Skills" />
 
----
+</div>
 
-## Projects
-
-### 📦 Scraper
-Automated remote job aggregator for Brazilian developers, featuring smart filtering and daily notifications via Telegram.
-
-[View project →](https://github.com/Kauan-Santos-Souza-Dev/Scraper)
-
-### 💼 Python Job Tracker
-Command-line application developed in Python for managing and tracking job applications.
-
-
-[View project →](https://github.com/Kauan-Santos-Souza-Dev/python-job-tracker)
+| Área | O que eu faço |
+|---|---|
+| 🐍 **Python** | Lógica de programação e back-end |
+| 🗄️ **MySQL** | Modelagem e consultas em banco de dados relacional |
+| 🔁 **CRUD** | Criar, ler, atualizar e remover dados com Python + MySQL, incluindo tratamento de erros |
+| 🌐 **JavaScript** | Nível intermediário |
+| 🎨 **HTML e CSS** | Nível intermediário |
+| 🤖 **Engenharia de Prompt** | Uso de IA como ferramenta de desenvolvimento e de produto |
+| 🇺🇸 **Inglês** | Avançado |
 
 ---
 
-## Education
+## 🚀 Projetos
 
-**Systems Analysis and Development** — start 03/2026 – 2º semester
+### 📦 CRUD de Vendas (Python + MySQL)
+Sistema de linha de comando para gerenciar vendas, separado em **camada de acesso a dados** (`crudpython.py`) e **interface** (`menu.py`).
 
-**FreeCodeCamp - JavaScript & Node.js** - *Finished*
+- Tratamento de erros com `try / except / finally`
+- `rollback` para desfazer operações que falharam
+- Checagem de linhas afetadas com `rowcount` no UPDATE e DELETE
+- Credenciais do banco protegidas com variáveis de ambiente (`.env`)
+- Comandos SQL parametrizados, protegendo contra SQL Injection
+
+**Tecnologias:** `Python` `MySQL` `python-dotenv`
+
+[Ver repositório →](https://github.com/Kauan-Santos-Souza-Dev/CRUD)
 
 ---
+
+## 📚 Formação
+
+| Instituição | Curso | Período |
+|---|---|---|
+| **Centro Universitário do Distrito Federal (UDF)** | Análise e Desenvolvimento de Sistemas | Desde 03/2026 · cursando o 2º semestre |
+| **Centro Interescolar de Línguas (CIL)** | Inglês | 5 anos · concluído |
+
+---
+
+## 🎯 Estudando agora
+
+- Validação de dados e boas práticas de back-end
+- Programação Orientada a Objetos
+- APIs, HTTP e JSON
+- Django
+
+---
+
+## 📫 Vamos conversar?
+
+Se você tem um problema real que merece virar produto, ou quer trocar ideia sobre tecnologia, me chama:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/kauan-santos-1456563ab/)
+- ✉️ kauansantos.admcomercial@gmail.com
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="Rodapé" />
+
+</div>
