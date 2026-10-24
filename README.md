@@ -54,23 +54,84 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento back-end, b
 | 🤖 **Engenharia de Prompt** | Utilização de IA para apoiar atividades de desenvolvimento e ideação de produtos |
 | 🇺🇸 **Inglês** | Nível avançado |
 
+---
+
 ## 🚀 Projetos em destaque
 
-### 📦 CRUD de Vendas — Python + MySQL
+Projetos que representam minha evolução técnica e minha forma de utilizar a tecnologia para construir soluções.
 
-Sistema de linha de comando desenvolvido para gerenciar vendas por meio de operações CRUD, com separação entre a interface do usuário e a camada de acesso a dados.
+<div align="center">
 
-**Principais implementações:**
+### 🗄️ CRUD Python + MySQL
 
+Sistema de gerenciamento de dados desenvolvido em Python com integração ao MySQL, aplicando operações CRUD e boas práticas de acesso a dados.
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![dotenv](https://img.shields.io/badge/Environment_Variables-6B7280?style=flat-square)](https://github.com/theskumar/python-dotenv)
+
+**Principais implementações**
+
+- Operações de criação, leitura, atualização e exclusão de registros.
 - Tratamento de exceções com `try`, `except` e `finally`.
-- Utilização de `rollback()` para desfazer alterações não confirmadas em transações com falha.
-- Verificação de registros afetados com `rowcount` em operações de atualização e exclusão.
-- Proteção das credenciais por meio de variáveis de ambiente e arquivo `.env`.
+- Utilização de `rollback()` para reverter alterações não confirmadas em transações com falha.
+- Verificação de registros afetados com `rowcount`.
+- Credenciais protegidas por variáveis de ambiente.
 - Consultas SQL parametrizadas para reduzir o risco de SQL Injection.
-- Organização do código em módulos, separando interface e acesso a dados.
+- Separação entre interface e camada de acesso a dados.
 
-**Stack:** `Python` · `MySQL` · `python-dotenv`
+[![Ver repositório](https://img.shields.io/badge/VER_REPOSIT%C3%93RIO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kauan-Santos-Souza-Dev/crud-python-mysql)
 
-<div align="left">
+---
 
-[![Ver projeto](https://img.shields.io/badge/VER_PRO
+### 🕷️ Scraper
+
+Projeto de software voltado à automação e à coleta de informações, parte do meu trabalho de construção de produtos tecnológicos.
+
+O repositório representa meu interesse em desenvolver ferramentas que automatizem tarefas e transformem processos manuais em soluções de software.
+
+[![Ver repositório](https://img.shields.io/badge/VER_REPOSIT%C3%93RIO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kauan-Santos-Souza-Dev/Scraper)
+
+</div>
+
+---
+
+## 🎓 Formação
+
+**Centro Universitário do Distrito Federal (UDF)**
+
+- **Curso:** Análise e Desenvolvimento de Sistemas
+- **Início:** março de 2026
+- **Status:** cursando — 2º semestre
+
+**Centro Interescolar de Línguas (CIL)**
+
+- **Formação:** Inglês
+- **Duração:** 5 anos
+- **Status:** concluído
+
+## 📚 Aprendizado contínuo
+
+Atualmente, estou aprofundando meus conhecimentos em:
+
+- Desenvolvimento back-end e boas práticas de programação.
+- Programação Orientada a Objetos (POO).
+- APIs, HTTP e JSON.
+- Django.
+- Validação de dados e tratamento de erros.
+- Desenvolvimento de produtos orientados a problemas reais.
+
+## 🤝 Vamos construir algo?
+
+Tenho interesse em trocar experiências, colaborar em projetos e conhecer oportunidades nas quais tecnologia, automação e visão de produto se complementem.
+
+Se você está desenvolvendo uma solução, tem um problema interessante para resolver ou quer conversar sobre tecnologia, entre em contato.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauan_Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-santos-1456563ab/)
+[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauansantos.admcomercial@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" alt="Rodapé decorativo em tons de azul" />
+
+</div>
