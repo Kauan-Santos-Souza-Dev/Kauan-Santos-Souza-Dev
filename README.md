@@ -1,91 +1,76 @@
+# 👋 Olá, eu sou Kauan Santos
+
+### Product Builder | Análise e Desenvolvimento de Sistemas
+
+Construo soluções tecnológicas com foco em problemas reais, automação e geração de valor.
+
+Acredito que desenvolver software vai além de escrever código: começa por entender o problema, identificar quem precisa da solução e construir algo que realmente faça sentido.
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kauan%20Santos&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Product%20Builder%20%7C%20Python%20%26%20MySQL&descAlignY=60&descSize=20" alt="Cabeçalho" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=Transformando+problemas+em+produtos;Python+%7C+MySQL+%7C+JavaScript;Tecnologia+com+prop%C3%B3sito)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=5BC0DE&center=true&vCenter=true&width=640&lines=Construindo+produtos+que+resolvem+problemas+reais;Python+%2B+MySQL+%2B+JavaScript;Todo+projeto+come%C3%A7a+com+um+usu%C3%A1rio+validado)](https://git.io/typing-svg)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauan_Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-santos-1456563ab/)
-[![Gmail](https://img.shields.io/badge/Gmail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauansantos.admcomercial@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Kauan--Santos--Souza--Dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kauan-Santos-Souza-Dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-santos-1456563ab/)
+[![GitHub](https://img.shields.io/badge/GitHub-Reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kauan-Santos-Souza-Dev)
+[![Gmail](https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauansantos.admcomercial@gmail.com)
 
 </div>
 
 ---
 
-## 👋 Sobre mim
+## 🧠 Sobre mim
 
-Estudante de **Análise e Desenvolvimento de Sistemas**, focado em construir **produtos de automação que resolvem problemas reais**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com interesse em desenvolver produtos digitais, automatizar processos e transformar necessidades reais em soluções funcionais.
 
-Eu abordo software pela perspectiva de negócio: todo projeto começa com **um usuário validado e uma razão clara de existir**, não apenas uma ideia para programar.
+Minha abordagem combina tecnologia e visão de negócio. Antes de pensar apenas em como implementar uma funcionalidade, procuro entender qual problema ela resolve e qual valor pode gerar.
 
-Me vejo  como **Product Builder**: alguém que usa a tecnologia como ferramenta para transformar problemas em produtos.
+Me identifico com o perfil de **Product Builder**: alguém que utiliza a tecnologia como ferramenta para idealizar, desenvolver e evoluir produtos.
 
----
+Atualmente, estou aprofundando meus conhecimentos em desenvolvimento back-end, bancos de dados e arquitetura de aplicações, sempre colocando a teoria em prática por meio de projetos próprios.
 
-## 🛠️ Skills
+## 🛠️ Tecnologias e competências
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,js,html,css,git,github&theme=dark" alt="Skills" />
+### Desenvolvimento
+
+<img src="https://skillicons.dev/icons?i=python,mysql,js,html,css,git,github&theme=dark" alt="Python, MySQL, JavaScript, HTML, CSS, Git e GitHub" />
+
+### Ferramentas e conceitos
+
+<img src="https://img.shields.io/badge/CRUD-Desenvolvimento_de_Sistemas-2563EB?style=flat-square" alt="CRUD" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-IA-7C3AED?style=flat-square" alt="Engenharia de Prompt" />
 
 </div>
 
-| Área | O que eu faço |
+| Competência | Conhecimentos |
 |---|---|
-| 🐍 **Python** | Lógica de programação e back-end |
-| 🗄️ **MySQL** | Modelagem e consultas em banco de dados relacional |
-| 🔁 **CRUD** | Criar, ler, atualizar e remover dados com Python + MySQL, incluindo tratamento de erros |
+| 🐍 **Python** | Lógica de programação, automação e desenvolvimento back-end |
+| 🗄️ **MySQL** | Banco de dados relacional, consultas SQL e manipulação de dados |
+| 🔄 **CRUD** | Operações de criação, leitura, atualização e exclusão de registros |
 | 🌐 **JavaScript** | Nível intermediário |
 | 🎨 **HTML e CSS** | Nível intermediário |
-| 🤖 **Engenharia de Prompt** | Uso de IA como ferramenta de desenvolvimento e de produto |
-| 🇺🇸 **Inglês** | Avançado |
+| 🔧 **Git e GitHub** | Nível intermediário; controle de versão e gerenciamento de repositórios |
+| 🤖 **Engenharia de Prompt** | Utilização de IA para apoiar atividades de desenvolvimento e ideação de produtos |
+| 🇺🇸 **Inglês** | Nível avançado |
 
----
+## 🚀 Projetos em destaque
 
-## 🚀 Projetos
+### 📦 CRUD de Vendas — Python + MySQL
 
-### 📦 CRUD de Vendas (Python + MySQL)
-Sistema de linha de comando para gerenciar vendas, separado em **camada de acesso a dados** (`crudpython.py`) e **interface** (`menu.py`).
+Sistema de linha de comando desenvolvido para gerenciar vendas por meio de operações CRUD, com separação entre a interface do usuário e a camada de acesso a dados.
 
-- Tratamento de erros com `try / except / finally`
-- `rollback` para desfazer operações que falharam
-- Checagem de linhas afetadas com `rowcount` no UPDATE e DELETE
-- Credenciais do banco protegidas com variáveis de ambiente (`.env`)
-- Comandos SQL parametrizados, protegendo contra SQL Injection
+**Principais implementações:**
 
-**Tecnologias:** `Python` `MySQL` `python-dotenv`
+- Tratamento de exceções com `try`, `except` e `finally`.
+- Utilização de `rollback()` para desfazer alterações não confirmadas em transações com falha.
+- Verificação de registros afetados com `rowcount` em operações de atualização e exclusão.
+- Proteção das credenciais por meio de variáveis de ambiente e arquivo `.env`.
+- Consultas SQL parametrizadas para reduzir o risco de SQL Injection.
+- Organização do código em módulos, separando interface e acesso a dados.
 
-[Ver repositório →](https://github.com/Kauan-Santos-Souza-Dev/CRUD)
+**Stack:** `Python` · `MySQL` · `python-dotenv`
 
----
+<div align="left">
 
-## 📚 Formação
-
-| Instituição | Curso | Período |
-|---|---|---|
-| **Centro Universitário do Distrito Federal (UDF)** | Análise e Desenvolvimento de Sistemas | Desde 03/2026 · cursando o 2º semestre |
-| **Centro Interescolar de Línguas (CIL)** | Inglês | 5 anos · concluído |
-
----
-
-## 🎯 Estudando agora
-
-- Validação de dados e boas práticas de back-end
-- Programação Orientada a Objetos
-- APIs, HTTP e JSON
-- Django
-
----
-
-## 📫 Vamos conversar?
-
-Se você tem um problema real que merece virar produto, ou quer trocar ideia sobre tecnologia, me chama:
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/kauan-santos-1456563ab/)
-- ✉️ kauansantos.admcomercial@gmail.com
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="Rodapé" />
-
-</div>
+[![Ver projeto](https://img.shields.io/badge/VER_PRO
